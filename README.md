@@ -1,2 +1,2 @@
 # chatbot_web
-in this project i appy the chatbot that use openai technology
+in this project i use the chatbot that use openai technology
